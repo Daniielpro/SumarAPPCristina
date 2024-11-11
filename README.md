@@ -73,6 +73,9 @@ Para clonar este repositorio en tu máquina local, sigue estos pasos:
     git commit -m "Descripción de los cambios"
     git push origin nombre-de-la-rama
     Abre una Pull Request desde tu rama en GitHub.
+    
+    
+## EJECUCION DEL PROGRAMA##
 ## Instalar Dependencias (si es necesario)##
     Si aún no has instalado las dependencias necesarias, abre la terminal en el directorio del proyecto y ejecuta el siguiente comando:
 
@@ -91,3 +94,5 @@ Para clonar este repositorio en tu máquina local, sigue estos pasos:
     Ingresa dos números en los campos de texto.
     Haz clic en el botón "Sumar".
     El resultado de la suma se mostrará debajo del formulario.
+
+Este `README.md` proporciona instrucciones claras para clonar el repositorio y colaborar en el proyecto, además de una breve descripción y la licencia del proyecto.
