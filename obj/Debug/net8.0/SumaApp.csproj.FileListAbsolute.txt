@@ -28,3 +28,4 @@ C:\Users\Usuario\Documents\GitHub\SumaApp\obj\Debug\net8.0\refint\SumaApp.dll
 C:\Users\Usuario\Documents\GitHub\SumaApp\obj\Debug\net8.0\SumaApp.pdb
 C:\Users\Usuario\Documents\GitHub\SumaApp\obj\Debug\net8.0\SumaApp.genruntimeconfig.cache
 C:\Users\Usuario\Documents\GitHub\SumaApp\obj\Debug\net8.0\ref\SumaApp.dll
+C:\Users\Usuario\Documents\GitHub\SumaApp\obj\Debug\net8.0\SumaApp.sourcelink.json
