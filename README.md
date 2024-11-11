@@ -82,8 +82,8 @@ Para clonar este repositorio en tu máquina local, sigue estos pasos:
     dotnet restore
 ## Ejecutar el proyecto:##
 
-    -En Visual Studio, haz clic en el botón de "Run" o presiona F5 para iniciar el proyecto.
-    -En Visual Studio Code, abre la terminal integrada y ejecuta el siguiente comando:
+1. En Visual Studio, haz clic en el botón de "Run" o presiona F5 para iniciar el proyecto.
+2. En Visual Studio Code, abre la terminal integrada y ejecuta el siguiente comando:
 
     dotnet run
 ## Acceder a la aplicación: Una vez que el proyecto esté ejecutándose, abre tu navegador y ve a la siguiente URL:##
@@ -91,8 +91,8 @@ Para clonar este repositorio en tu máquina local, sigue estos pasos:
     http://localhost:5054/
 ## Usar la aplicación: ##
 
-    Ingresa dos números en los campos de texto.
-    Haz clic en el botón "Sumar".
-    El resultado de la suma se mostrará debajo del formulario.
+1. Ingresa dos números en los campos de texto.
+2. Haz clic en el botón "Sumar".
+3. El resultado de la suma se mostrará debajo del formulario.
 
 Este `README.md` proporciona instrucciones claras para clonar el repositorio y colaborar en el proyecto, además de una breve descripción y la licencia del proyecto.
