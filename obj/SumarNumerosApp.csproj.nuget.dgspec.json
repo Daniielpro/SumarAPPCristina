@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\SumaApp\\SumarNumerosApp.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\SumarAPPCristina\\SumarNumerosApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\SumaApp\\SumarNumerosApp.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\SumarAPPCristina\\SumarNumerosApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\SumaApp\\SumarNumerosApp.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\SumarAPPCristina\\SumarNumerosApp.csproj",
         "projectName": "SumarNumerosApp",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\SumaApp\\SumarNumerosApp.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\SumarAPPCristina\\SumarNumerosApp.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\SumaApp\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\SumarAPPCristina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
